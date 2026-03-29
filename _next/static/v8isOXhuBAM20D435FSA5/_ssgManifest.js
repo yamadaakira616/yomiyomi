@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[profileId]","\u002F[profileId]\u002Fachievements","\u002F[profileId]\u002Fboss","\u002F[profileId]\u002Fcollection","\u002F[profileId]\u002Fgacha","\u002F[profileId]\u002Fpet","\u002F[profileId]\u002Fstory\u002F[storyId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
